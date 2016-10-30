@@ -1,0 +1,10 @@
+[user]
+	name = Viktor Ulyankin
+	email = freeman.viktor@mail.ru
+[core]
+	autocrlf = false
+	safecrlf = false
+[color]
+	ui = true
+[alias]
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
